@@ -1,0 +1,51 @@
+ Id     Duration CommandLine
+  --     -------- -----------
+   1        0.237 try { . "c:\Users\is511\AppData\Local\Programs\Microsoft VS Code\7debcd0e2a\resources\app\out\vs\workbench\contrib\termin…
+   2        0.144 & C:\Users\is511\AppData\Roaming\uv\python\cpython-3.14.0-windows-x86_64-none\python.exe "g:/My Drive/Gihub-for-devops-wo…
+   3        0.054 & C:\Users\is511\AppData\Roaming\uv\python\cpython-3.14.0-windows-x86_64-none\python.exe "g:/My Drive/Gihub-for-devops-wo…
+   4        0.043 clear
+   5        0.136 ls -l
+   6        0.011 ls -l
+   7        0.002 clear
+   8        0.492 git init
+   9        0.027 dir -a
+  10        0.032 cleanmgr.exe
+  11        0.003 clear
+  12        0.109 git status
+  13        0.040 dir
+  14        0.139 git add testing.py
+  15        0.097 git status
+  16        0.108 git rm --cached testing.py
+  17        0.100 git status
+  18        0.101 git add .
+  19        0.096 git status
+  20        0.378 git commit -m "add testing file"
+  21        0.118 git status
+  22        0.028 rm testing.y
+  23        0.018 rm testing.py
+  24        0.008 dir
+  25        0.116 git status
+  26        0.123 git restore testing.py
+  27        0.136 git status
+  28        0.037 history
+  29        0.117 git status
+  30        0.136 git add git-commands.txt
+  31        0.118 git status
+  32        0.352 git commit -m "add git-commands.txt file"
+  33        0.120 git s
+  34        0.118 git status
+  35        0.149 git remote add origin https://github.com/bwubnc23153/Gihub-for-devops-workshop.git
+  36        0.077 git remote -v
+  37        0.117 git status
+  38       21.692 git push origin master
+  39        0.119 git remote set-url origin https://@github.com/bwubnc23153/Gihub-for-devops-worksh…
+  40        0.070 git remote -v
+  41        2.520 git push origin master
+  42        0.114 git status
+  43        0.101 git add .
+  44        0.120 git status
+  45        0.360 git commit -m "add new-file.txt file"
+  46        2.927 git push origin master
+  47        0.031 cd My Drive\Github Frok Testing
+  48        0.016 cd G:\My Drive\Github Frok Testing
+  49        0.075 clear4
